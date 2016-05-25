@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #2D8BCF;
+  color: #444;
   font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
 }
 
@@ -453,7 +453,7 @@ nav {
 
 .branding a {
   width: 80%;
-  font-size: 1.6em;
+  font-size: 2.6em;
   text-align: left;
   color: #1B7998;
   text-decoration: none;
