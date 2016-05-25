@@ -116,6 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
+/*  color: #2D8BCF;*/
   color: #444;
   font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
 }
@@ -507,7 +508,8 @@ nav li a:hover {
 }
 
 .userinfo a {
-  color: #2D8BCF;
+/*  color: #2D8BCF;*/
+  color: #444;
 }
 
 .userinfo input {
